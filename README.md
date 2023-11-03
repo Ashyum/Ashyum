@@ -1,18 +1,20 @@
-<!--### Hi there 👋-->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ashyum!;" />
-</h1>
-
+<div align="center">
+    <h1>
+         Hi 👋, I'm Ashyum Priyadarshi
+    </h1>
+</div>
+<div>
+    <p>
+        Passionate about problem solving, full stack development and learning new technologies. I enjoy solving problems on leetcode and have been actively participating in contests on leetcode mostly. I am currently learning Spring Boot and React and also building a full stack application using the same.  
+    </p>
+</div>
+<div>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Movie Review Application using spring boot 
+- 🌱 I’m currently learning Spring Boot, React. 
+- 💬 Ask me about Java, MySql, Html, Css, JavaScript(Basics), DSA, DBMS, CN.
+- 📫 How to reach me:
 <div > 
   <a href="mailto:ashyumkp16@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -21,6 +23,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+</div>
 
-[![Ashyum's github stats](https://github-readme-stats.vercel.app/api?username=Ashyum&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashyum)](https://github.com/anuraghazra/github-readme-stats)
+<h1>
+    Technologies:
+</h1>
+
+
+
