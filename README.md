@@ -1,6 +1,6 @@
 <div>
     <h1>
-         Hi 👋, I'm Ashyum Priyadarshi
+         Hi 👋, I'm Ashyum Kumar Priyadarshi
     </h1>
 </div>
 <div>
